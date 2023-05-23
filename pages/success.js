@@ -11,7 +11,7 @@ const Success = () => {
                         If You are Esha
                     </div>
                     <div className="text-lg font-bold mt-2">
-                        Then I love you So much
+                        Then I love you ❤️
                     </div>
                     <div className="text-base mt-5">
                         For any product related query, drop an email to

@@ -8,10 +8,10 @@ const Success = () => {
             <Wrapper>
                 <div className="max-w-[600px] rounded-lg p-5 border border-black mx-auto flex flex-col">
                     <div className="text-2xl font-bold">
-                        Thanks for shopping with us!
+                        If You are Esha
                     </div>
                     <div className="text-lg font-bold mt-2">
-                        Your order has been placed successfully.
+                        Then I love you So much
                     </div>
                     <div className="text-base mt-5">
                         For any product related query, drop an email to

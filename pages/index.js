@@ -30,7 +30,7 @@ export default function Home({ products }) {
           {/* <h1>{products?.data?.[0]?.attributes?.name}</h1> */}
           <div className="text-center max-w-[800px] mx-auto my-[50px] md:my-[80px]">
             <div className="text-[28px] md:text-[34px] mb-5 font-semibold">
-               Tredning T-Shirts
+               Trending T-Shirts
             </div>
             <div className="text-md md:text-xl pb-3">
              A lightweight T-Shirt ZoomX midsole is combined with increased stack
